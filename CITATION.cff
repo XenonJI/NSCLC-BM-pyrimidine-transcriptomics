@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "An apparent pyrimidine transcriptional signature in NSCLC brain metastases is proliferation-coupled and sensitive to cohort structure"
+type: software
+authors:
+  - family-names: "Ji"
+    given-names: "Xiang"
+  - family-names: "Peng"
+    given-names: "Zicheng"
+  - family-names: "Zhao"
+    given-names: "Peiyu"
+  - family-names: "Jiang"
+    given-names: "Zhuoyan"
+  - family-names: "Chen"
+    given-names: "Jiqing"
+  - family-names: "Liu"
+    given-names: "Tongyan"
+  - family-names: "Rong"
+    given-names: "Yin"
