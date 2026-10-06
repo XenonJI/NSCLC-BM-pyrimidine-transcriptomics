@@ -1,0 +1,15 @@
+Core:
+data.table
+ggplot2
+readxl
+MASS
+clubSandwich
+patchwork
+svglite
+scales
+
+Optional / script-specific:
+fwildclusterboot
+dqrng
+generics
+Seurat
